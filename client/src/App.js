@@ -7,6 +7,7 @@ const App = () => {
     fetch('https://enigmatic-shore-92552.herokuapp.com/generate')
       .then((res) => res.json())
       .then((nme) => setName([nme]))
+      .catch(console.log)
   }, [])
 
   return (
