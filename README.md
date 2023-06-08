@@ -1,5 +1,9 @@
 # Starter Name Generator
 
+### A Thinkful Teaching Aid
+
+This repo is for Thinkful teaching aids and as such is not intended to make sense outside the original context
+
 ## Installation
 
 1. Fork this repository by clicking the Fork button at the top right of the page.
